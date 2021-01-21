@@ -1,2 +1,2 @@
-# Repositorio Ola Mundo
- Repositorio da aula do Curso em video 
+# Repositorio Olà, Mundo!
+ Primeiro repositorio da aula do Curso em video GitHub
